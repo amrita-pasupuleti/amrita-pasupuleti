@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amrita-pasupuleti
-- my portfolio: https://amrita-pasupuleti.netlify.app/pages/Fff
+- my portfolio: https://amrita-pasupuleti.netlify.app/
 - https://www.linkedin.com/in/amrita-pasupuleti/
 
 
