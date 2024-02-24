@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amrita-pasupuleti
-- my portfolio: https://amrita-pasupuleti.netlify.app/
+- my portfolio: https://amritap.vercel.app/
 - https://www.linkedin.com/in/amrita-pasupuleti/
 
 
